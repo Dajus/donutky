@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './donut.png';
 import './App.css';
 
 function App() {
@@ -9,14 +9,9 @@ function App() {
         <p>
           Vítejte Koblížcí
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+       <h1>
+         Co nevidět pečeme
+       </h1>
       </header>
     </div>
   );
