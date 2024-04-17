@@ -12,6 +12,7 @@ function App() {
        <h1>
          Co nevidět pečeme
        </h1>
+          <p>Mňam mňam v bříšku</p>
       </header>
     </div>
   );
